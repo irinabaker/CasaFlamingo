@@ -1562,7 +1562,7 @@
 								],
 								"body": {
 									"mode": "raw",
-									"raw": "{\r\n  \"number\": \"{{new_room}}\",\r\n  \"type\": \"xxl\",\r\n  \"price\": 50\r\n}",
+									"raw": "{\r\n  \"number\": \"58\",\r\n  \"type\": \"xxl\",\r\n  \"price\": 50\r\n}",
 									"options": {
 										"raw": {
 											"language": "json"
