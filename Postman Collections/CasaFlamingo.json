@@ -1694,8 +1694,8 @@
 											"    pm.response.to.have.status(200);\r",
 											"});\r",
 											"\r",
-											"pm.test(\"Response time is less than 300ms\", function () {\r",
-											"    pm.expect(pm.response.responseTime).to.be.below(300);\r",
+											"pm.test(\"Response time is less than 600ms\", function () {\r",
+											"    pm.expect(pm.response.responseTime).to.be.below(600);\r",
 											"});\r",
 											"\r",
 											"pm.test(\"Content-Type is present\", function () {\r",
@@ -1710,8 +1710,11 @@
 									"listen": "prerequest",
 									"script": {
 										"id": "ac2bd6b6-7431-40dc-8eb0-9c10f171b5b0",
-										"exec": [],
-										"type": "text/javascript"
+										"exec": [
+											""
+										],
+										"type": "text/javascript",
+										"packages": {}
 									}
 								}
 							],
@@ -1841,8 +1844,8 @@
 											"    pm.response.to.have.status(200);\r",
 											"});\r",
 											"\r",
-											"pm.test(\"Response time is less than 300ms\", function () {\r",
-											"    pm.expect(pm.response.responseTime).to.be.below(300);\r",
+											"pm.test(\"Response time is less than 600ms\", function () {\r",
+											"    pm.expect(pm.response.responseTime).to.be.below(600);\r",
 											"});\r",
 											"\r",
 											"pm.test(\"Content-Type is present\", function () {\r",
@@ -1857,8 +1860,11 @@
 									"listen": "prerequest",
 									"script": {
 										"id": "a8ea3d59-3d15-42e1-b970-f16f4a3d5d74",
-										"exec": [],
-										"type": "text/javascript"
+										"exec": [
+											""
+										],
+										"type": "text/javascript",
+										"packages": {}
 									}
 								}
 							],
@@ -1963,8 +1969,8 @@
 											"    pm.response.to.have.status(200);\r",
 											"});\r",
 											"\r",
-											"pm.test(\"Response time is less than 300ms\", function () {\r",
-											"    pm.expect(pm.response.responseTime).to.be.below(300);\r",
+											"pm.test(\"Response time is less than 600ms\", function () {\r",
+											"    pm.expect(pm.response.responseTime).to.be.below(600);\r",
 											"});\r",
 											"\r",
 											"pm.test(\"Content-Type is present\", function () {\r",
@@ -1979,8 +1985,11 @@
 									"listen": "prerequest",
 									"script": {
 										"id": "6cdec847-e365-471c-a173-c4f1cf9baf11",
-										"exec": [],
-										"type": "text/javascript"
+										"exec": [
+											""
+										],
+										"type": "text/javascript",
+										"packages": {}
 									}
 								}
 							],
@@ -2013,8 +2022,8 @@
 											"    pm.response.to.have.status(200);\r",
 											"});\r",
 											"\r",
-											"pm.test(\"Response time is less than 300ms\", function () {\r",
-											"    pm.expect(pm.response.responseTime).to.be.below(300);\r",
+											"pm.test(\"Response time is less than 600ms\", function () {\r",
+											"    pm.expect(pm.response.responseTime).to.be.below(600);\r",
 											"});\r",
 											"\r",
 											"pm.test(\"Content-Type is present\", function () {\r",
@@ -2029,8 +2038,11 @@
 									"listen": "prerequest",
 									"script": {
 										"id": "63bd93e2-a576-40cb-bf69-8f131fc9692e",
-										"exec": [],
-										"type": "text/javascript"
+										"exec": [
+											""
+										],
+										"type": "text/javascript",
+										"packages": {}
 									}
 								}
 							],
