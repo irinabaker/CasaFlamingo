@@ -1528,8 +1528,11 @@
 									"listen": "prerequest",
 									"script": {
 										"id": "c6e21302-b5e0-4211-980e-c2aa0ac45109",
-										"exec": [],
-										"type": "text/javascript"
+										"exec": [
+											""
+										],
+										"type": "text/javascript",
+										"packages": {}
 									}
 								}
 							],
